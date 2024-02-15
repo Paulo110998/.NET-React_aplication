@@ -1,0 +1,33 @@
+.homepage h1 {
+    
+    text-align: center;
+    margin-top: 30px;
+
+}
+
+.loading {
+    margin-left: 40%;
+    margin-right: auto;
+    width: 200px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.informacao {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1.4rem;
+    padding-bottom: 1.5rem;
+    
+    text-align: center;
+    width: 100%;
+}
+
+.turmas p {
+    font-size: 25px;
+}
+
+.turmas h2 {
+    font-size: 30px;
+}
+

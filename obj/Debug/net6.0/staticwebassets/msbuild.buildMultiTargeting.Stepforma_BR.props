@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Stepforma_BR.props" />
+</Project>

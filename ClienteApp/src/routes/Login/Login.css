@@ -1,0 +1,56 @@
+.new-login h2{
+    text-align: center;
+    
+    font-size: 30px;
+    margin-top: 30px;
+    margin-right: auto;
+    margin-left: auto;
+    
+    
+}
+
+form {
+    width: 270px;
+    height: 250px;
+    width: 100%;
+    margin: 0 auto;     
+    margin-top: 20px;
+    
+}
+label{
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+}
+
+input{
+    height: 25px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+p{
+    font-size: 30px;
+}
+
+
+.entrar{
+    border: 2px solid white;
+    background-color: white;
+    color: black;
+    margin-top: 10px;    
+    max-width: 100px;
+    text-align: center;
+    cursor: pointer;
+    transition: 0.3s;
+    margin-left: 30%;
+    margin-right: auto;
+    border-radius: 5px;
+
+}
+
+.entrar:hover {
+    color: white;
+    background-color: #0e1217;
+}

@@ -1,0 +1,55 @@
+.homepage h1 {
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+
+.loading {
+    margin-left: 40%;
+    margin-right: auto;
+    width: 200px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.turma {
+    margin-bottom: 1.4rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid #777;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.turma p {
+    font-size: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.turma h2 {
+    font-size: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.btn {
+    border: 4px solid white;
+    background-color: white;
+    color: black;
+    margin-top: 10px;
+    opacity: 1;
+    padding: .5rem 1rem;
+    border-radius: .5rem;
+    max-width: 100px;
+    text-align: center;
+    cursor: pointer;
+    transition: 0.3s;
+
+}
+
+.btn:hover {
+    color: white;
+    background-color: #0e1217;
+}

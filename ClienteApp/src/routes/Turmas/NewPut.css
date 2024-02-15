@@ -1,0 +1,24 @@
+.edit-put h1{
+    text-align: center;
+    margin-bottom: 1rem;
+    font-size: 30px;
+    
+}
+
+form {
+    max-width: 500px;
+    width: 100%;
+    margin: 0 auto;
+    
+}
+p{
+    font-size: 30px;
+}
+.form-controll{
+    display: flex;
+    flex-direction: column;
+    font-size: 25px;
+}
+input{
+   margin-bottom: 2rem;
+}
